@@ -1,0 +1,26 @@
+function _draw()
+	cls(0)
+	map()
+	draw_text_trigger()
+
+	dplr()
+	draw_health()
+	dpickups()
+	dcam()
+	dparticles()
+	dbullets()
+	enemies_draw()
+end
+function _draw()
+	cls(0)
+	map()
+	draw_text_trigger()
+
+	dplr()
+	draw_health()
+	dpickups()
+	dcam()
+	dparticles()
+	dbullets()
+	enemies_draw()
+end
